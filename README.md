@@ -25,9 +25,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Alhanoufkmlz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
-## My Contributions
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Alhanoufkmlz/Alhanoufkmlz/output/github-contribution-grid-snake-dark.svg)
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
